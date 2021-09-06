@@ -4,6 +4,7 @@
 /* change the font family and spacing as per your project font */
 a {
 	text-decoration: none;
+	color:dodgerblue;
 }
 #img1{
 	margin-left: 1300px;
@@ -39,6 +40,7 @@ td,table{
 	padding: 10px;
 	background-color: white;margin-top: 1px;
 	
+	
 }
 
 .footer{
@@ -71,5 +73,9 @@ hover{
  a img { 
 	display:none;
 	position:absolute;
+	color:dodgerblue;
  }
 a:hover img { display:block; }
+#g{
+	color:grey;
+}
